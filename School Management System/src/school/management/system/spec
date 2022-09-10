@@ -1,0 +1,29 @@
+Student
+Teachers
+Funds
+
+1/ Money management system
+
+- Keep track of student total fees
+- fees already paid
+- teachers salary
+
+2/ School
+Teachers
+Students
+Total money earned
+Total money spent - teachers salary
+
+3/ Teacher
+id
+name
+salary
+
+4/ Student
+id
+name
+grade (class)
+fees paid
+fees total
+
+
